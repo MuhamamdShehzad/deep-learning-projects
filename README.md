@@ -1,3 +1,3 @@
 # deep-learning
-This repository contains all the assignments and practice exercises of deep learning specialization. These assignments are done during Course Specialization.
+This repository contains all the assignments and practice exercises of deep learning specialization Course. These assignments are done during Course Specialization.
 
